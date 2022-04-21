@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="module_head">
+
+        <item name="android:textSize">
+            32sp
+        </item>
+
+        <item name="android:textColor">
+            #1C4977
+        </item>
+
+    </style>
+    <style name="previewtext">
+
+        <item name="android:textSize">
+            13.44sp
+        </item>
+
+        <item name="android:textColor">
+            #B4C9DD
+        </item>
+
+    </style>
+</resources>
